@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Praveen SB
-- 👀 I'm an aspiring Full Stack Developer.
-- 🌱 I’m currently concentrating on Front-end Development.
+- 👀 I'm a Full Stack Developer at Unifo Technologies.
+- 🌱 I’m currently working in real time systems.
 - 📫 You can mail me => praveenalchemy@gmail.com 
 
 
